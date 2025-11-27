@@ -167,13 +167,7 @@ Browser Extension:
 - **SSO Integration:** LDAP/SAML integration for enterprise authentication
 - **Slack/Teams Integration:** Direct alerts to communication platforms
 
-### Phase 3: Global Expansion & Monetization (Months 5-6)
-- **Multi-TLD Support:** Extend beyond .ng to other African TLDs (.za, .ke, .gh)
-- **Premium Tier:** Advanced features (24/7 support, custom integrations, dedicated infrastructure)
-- **Enterprise Licensing:** Per-domain licensing model with volume discounts
-- **Managed Services:** Offer DNS security as a managed service for small businesses
-
-### Phase 4: Community & Ecosystem (Ongoing)
+### Phase 3: Community & Ecosystem (Ongoing)
 - **Open Blocklist Registry:** Community-curated blocklists for adult content and malware
 - **NiRA Partnership:** Official partnership with Nigerian Registry to embed security recommendations
 - **Educational Resources:** Training materials for organizations on DNS security best practices
@@ -190,4 +184,5 @@ Browser Extension:
 
 **NAME: Oluwawumi Samue**
 - **Role:** Frontend Developer/UI Design
+
 
